@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:vyaparflow_flutter/core/network/api_endpoints.dart';
+import 'package:vyaparflow_flutter/core/common/constants/api_endpoints.dart';
 import '../error/exceptions.dart';
 import 'token_store.dart';
 
